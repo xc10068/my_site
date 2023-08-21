@@ -1,1 +1,49 @@
-site_name: My Docs
+site_name: X-Pipeline
+
+
+nav:
+
+  - 主页: index.md
+
+  # - 流程概述:
+  #   - 任务列表: todo.md
+  #   - 快速上手: xpipeline简要说明.md
+
+  # - 使用文档:
+  #   - 流程搭建: 005_serve_build.md
+
+  - 开发文档:
+    - 配置与扩展: xp_dev_docs.md
+    # - RV: 041_rv.md
+    # - RV洋葱皮: rv_ghost.md
+
+  - 技术文档:
+    - pyinstaller: pyinstaller.md
+
+  # - 网站收藏:
+  #     - 收藏1: 收藏.md
+  #     - 技术类:
+  #       - 测试: todo.md
+
+
+theme:
+    # mkdocs readthedocs windmill-dark material
+    name: material
+
+    icon:
+      admonition:
+        note: octicons/tag-16
+
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+
+use_directory_urls: false
+
+
+

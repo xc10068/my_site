@@ -1,0 +1,14 @@
+
+
+```mermaid
+graph LR
+
+	start(开始)  --> open[打开]
+```
+
+
+
+
+
+
+

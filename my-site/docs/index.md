@@ -1,17 +1,32 @@
-# Welcome to MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
+![image-20230506221008196](images/image-20230506221008196.png)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+
+---
+
+
+
+## 流程管理系统
+
+![Snipaste_2023-04-27_14-27-41](images/Snipaste_2023-04-27_14-27-41.png)
+
+![image-20230511231149441](images/image-20230511231149441.png)
+
+
+
+![Snipaste_2023-05-13_00-13-18](images/Snipaste_2023-05-13_00-13-18.png)
+
+![Snipaste_2023-05-13_00-13-51](images/Snipaste_2023-05-13_00-13-51.png)
+
+<video src="images/202205041318.mp4"></video>
+
+
+
+
+
+
+
